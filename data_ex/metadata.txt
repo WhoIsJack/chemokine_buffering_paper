@@ -1,0 +1,5 @@
+file name	Z	Y	X	DATA_PART	time-post-hs[min]	organ_number	imaging_dish	clutch	8bit_upper	notes
+example_stack_wt	35	662	860	NA	357	2	3	NA	mem: 25000, cx7: 42000	example for github repo, copied from Image 35_Out (WT_20180605)
+example_stack_hs	48	656	894	NA	367	2	4	NA	mem: 25000, cx7: 42000	example for github repo, copied from Image 36_Out (hs_20180605)
+example_coloc_wt	37	640	868	NA	388	2	2	NA	35000	example for github repo, copied from Image 40_Out (COLOClamp1WT_20180214)
+example_coloc_hs	48	602	906	NA	377	2	2	NA	35000	example for github repo, copied from Image 39_Out (COLOClamp1HS_20180214)

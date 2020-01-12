@@ -1,0 +1,6 @@
+# Ignore hidden stuff
+.ipynb_checkpoints
+.DS_Store
+
+# Ignore full data folder
+data_full/
