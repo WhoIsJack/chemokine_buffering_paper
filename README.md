@@ -1,6 +1,6 @@
 # chemokine_buffering_paper
 
-This repo hosts the code for the python-based quantitative image and data analysis used in the paper entitled "Dynamic buffering of extracellular chemokine enables robust adaptation during directed tissue migration" by Wong and colleagues, as described in the `METHOD DETAILS` chapter in the sections `High resolution imaging and processing` and `3D image analysis and quantification`.  All code was written by Jonas Hartmann.
+This repo hosts the code for the python-based quantitative image and data analysis used in the paper entitled "[Dynamic buffering of extracellular chemokine enables robust adaptation during directed tissue migration](https://www.sciencedirect.com/science/article/pii/S1534580720300149)" by Wong and colleagues, as described in the `METHOD DETAILS` chapter in the sections `High resolution imaging and processing` and `3D image analysis and quantification`.  All code was written by Jonas Hartmann.
 
 
 ### Analyses Included
